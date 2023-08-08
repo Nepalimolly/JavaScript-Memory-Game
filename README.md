@@ -1,4 +1,4 @@
-# Color Coded Memory Game
+# JavaScript Color Coded Memory Game
 
 Welcome to the Color Coded Memory Game project! This interactive web application is a demonstration of my proficiency in JavaScript DOM manipulation, HTML, and CSS. The game challenges players to test their memory by matching color pairs while emphasizing a responsive and engaging user experience.
 
@@ -7,8 +7,6 @@ Welcome to the Color Coded Memory Game project! This interactive web application
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
