@@ -25,7 +25,7 @@ Welcome to the Color Coded Memory Game project! This interactive web application
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/color-coded-memory-game.git`
+1. Clone the repository: `git clone https://github.com/your-username/Javascript-Memory-Game.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
